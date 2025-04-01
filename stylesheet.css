@@ -1,0 +1,69 @@
+.a1{
+    padding-left: 100px;
+    margin-bottom: 0%;
+}
+.a2{
+background-color: #E6E6FA;
+text-align: right;
+
+}
+#q1{
+    background-color: #E6E6FA;
+    border: none;
+    padding: 20px;
+    text-decoration: wavy;
+    text-shadow: black;
+    text-indent: 100px;
+    font-family: cursive;
+
+}
+#q1:hover{
+    background-color:#E6E6FA;
+}
+.a3{
+    display: grid;
+    padding:0px;
+    grid-template-columns: repeat(auto-fit,minmax(15px,1fr));
+    justify-content: center;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+p{
+    font-size:50px;
+   
+}
+#q2{
+background-color:  #E6E6FA;
+border-color: rgb(151, 174, 209);
+border-style: double;
+border-radius: 20px;
+margin:15px;
+text-align: center;
+box-shadow: #14141b;
+}
+h5{
+    opacity: 0.5;
+}
+.a4{
+gap: 0px;    
+background-color: rgb(255, 255, 255);
+border-radius:1000px;
+display:grid;
+padding: 5px;
+margin-left:150px;
+margin-right:150px;
+grid-template-columns: repeat(auto-fit,minmax(150px,1fr));
+justify-content: center;
+padding-top: 5px;
+}
+#k1{
+    background-color:#E6E6FA ;
+    border-radius: 50px;
+    border: none;
+   padding: 20px;
+}
+#q7{
+    border:0px;
+    outline: 0px;
+}
+
